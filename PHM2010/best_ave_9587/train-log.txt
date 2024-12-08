@@ -1,0 +1,18 @@
+C:\Users\fangzhaobo\.conda\envs\pytorch\python.exe D:\py\PHM2010\train.py 
+C:\Users\fangzhaobo\.conda\envs\pytorch\lib\site-packages\torch\nn\functional.py:5476: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\cb\pytorch_1000000000000\work\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:263.)
+  attn_output = scaled_dot_product_attention(q, k, v, attn_mask, dropout_p, is_causal)
+Epoch [1], Train Loss: 0.3894, Train Accuracy: 0.8524, Val Loss: 0.2538, Val Accuracy: 0.8984
+保存新的最佳模型：best_model11.pth
+Epoch [2], Train Loss: 0.2086, Train Accuracy: 0.9270, Val Loss: 0.1965, Val Accuracy: 0.9238
+保存新的最佳模型：best_model11.pth
+Epoch [3], Train Loss: 0.1248, Train Accuracy: 0.9492, Val Loss: 0.1197, Val Accuracy: 0.9587
+保存新的最佳模型：best_model11.pth
+Epoch [4], Train Loss: 0.1022, Train Accuracy: 0.9635, Val Loss: 0.1809, Val Accuracy: 0.9302
+Epoch [5], Train Loss: 0.0581, Train Accuracy: 0.9778, Val Loss: 0.4473, Val Accuracy: 0.8413
+Epoch [6], Train Loss: 0.0838, Train Accuracy: 0.9667, Val Loss: 0.1789, Val Accuracy: 0.9429
+Epoch [7], Train Loss: 0.0689, Train Accuracy: 0.9778, Val Loss: 0.1263, Val Accuracy: 0.9492
+Epoch [8], Train Loss: 0.0401, Train Accuracy: 0.9873, Val Loss: 0.1974, Val Accuracy: 0.9111
+Epoch [9], Train Loss: 0.0252, Train Accuracy: 0.9921, Val Loss: 0.2273, Val Accuracy: 0.9206
+Epoch [10], Train Loss: 0.0424, Train Accuracy: 0.9889, Val Loss: 0.3197, Val Accuracy: 0.9016
+
+Process finished with exit code 0

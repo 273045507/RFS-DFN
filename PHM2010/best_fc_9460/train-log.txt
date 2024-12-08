@@ -1,0 +1,17 @@
+C:\Users\fangzhaobo\.conda\envs\pytorch\python.exe D:\py\PHM2010\train.py 
+Epoch [1], Train Loss: 0.5474, Train Accuracy: 0.7810, Val Loss: 0.4448, Val Accuracy: 0.7937
+保存新的最佳模型：best_model11.pth
+Epoch [2], Train Loss: 0.2480, Train Accuracy: 0.9333, Val Loss: 0.3301, Val Accuracy: 0.8540
+保存新的最佳模型：best_model11.pth
+Epoch [3], Train Loss: 0.1547, Train Accuracy: 0.9619, Val Loss: 0.2102, Val Accuracy: 0.9429
+保存新的最佳模型：best_model11.pth
+Epoch [4], Train Loss: 0.1283, Train Accuracy: 0.9667, Val Loss: 0.2746, Val Accuracy: 0.8889
+Epoch [5], Train Loss: 0.1039, Train Accuracy: 0.9762, Val Loss: 0.1796, Val Accuracy: 0.9365
+Epoch [6], Train Loss: 0.0885, Train Accuracy: 0.9794, Val Loss: 0.1797, Val Accuracy: 0.9365
+Epoch [7], Train Loss: 0.0761, Train Accuracy: 0.9746, Val Loss: 0.1997, Val Accuracy: 0.9333
+Epoch [8], Train Loss: 0.0662, Train Accuracy: 0.9873, Val Loss: 0.2005, Val Accuracy: 0.9333
+Epoch [9], Train Loss: 0.0613, Train Accuracy: 0.9825, Val Loss: 0.1518, Val Accuracy: 0.9429
+Epoch [10], Train Loss: 0.0552, Train Accuracy: 0.9841, Val Loss: 0.1562, Val Accuracy: 0.9460
+保存新的最佳模型：best_model11.pth
+
+Process finished with exit code 0
